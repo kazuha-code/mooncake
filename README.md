@@ -8,8 +8,7 @@ My Custom Mooncake Design Tool is an interactive online experience that lets you
 - Add fillings & colors for visual presentation
 - Download or share your design for gifting, printing, or baking reference
 
-It’s like designing your own mooncake on paper—but digital, shareable, and fun.
-https://mooncake.beehiiv.com/
+It’s like designing your own mooncake on paper—but digital, shareable, and fun. If you want more free mooncake recipes, check out my website https://mooncake.beehiiv.com/
 
 ## Why Make a Custom Mooncake?
 In a world of mass-produced treats a personalized mooncake stands out. Whether you're celebrating with loved ones or creating a seasonal campaign for your business, custom mooncakes make a meaningful impact.
