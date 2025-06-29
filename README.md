@@ -1,7 +1,6 @@
 # Design Your Own Mooncake | Free Custom Mooncake Tool Online!
-Celebrate the Mid-Autumn Festival with a mooncake that’s uniquely yours. Whether you're an artist, baker, brand, or just love mooncakes, my free online mooncake design tool lets you create stunning, one-of-a-kind mooncakes—without any design software or baking skills.
 ## What Is this Mooncake Design Tool?
-My Custom Mooncake Design Tool is an interactive online experience that lets you:
+This [customizable mooncake design tool](https://v0-mooncake-design-tool.vercel.app/) is an interactive online experience that lets you:
 
 - Select mooncake shapes: traditional round, modern square, heart-shaped, floral, and more
 - Choose from intricate patterns: calligraphy, nature motifs, brand logos, cute characters
